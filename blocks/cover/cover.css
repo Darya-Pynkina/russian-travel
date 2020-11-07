@@ -3,4 +3,5 @@
     margin-top: 92px;
     width: calc(100% - 96px);
     flex-direction: column;
+    align-self: center;
 }

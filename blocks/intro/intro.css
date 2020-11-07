@@ -2,6 +2,5 @@
     display: flex;
     flex-direction: column;
     margin-top: 92px;
-    width: calc(100% - 590px);
-    align-self: start;
+    max-width: calc(100% - 590px);
 }
