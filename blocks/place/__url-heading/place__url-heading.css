@@ -1,0 +1,15 @@
+.place__url-heading{
+    width: 456px;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 170%;
+/* or 20px */
+
+letter-spacing: 0.2em;
+
+color: #AAAAAA;
+grid-area: web;
+margin: 30px 0 0 0;
+}

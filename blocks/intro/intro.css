@@ -2,6 +2,6 @@
     display: flex;
     flex-direction: column;
     margin-top: 92px;
-    width: 690px;
+    width: calc(100% - 590px);
     align-self: start;
 }
