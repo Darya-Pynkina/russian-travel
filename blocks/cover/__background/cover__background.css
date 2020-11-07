@@ -6,4 +6,9 @@ align-self: center;
 background: #2A2C2F;
 opacity: 0.8;
 object-fit: contain;
+transition: opacity 0.4s ease-in-out;
+}
+
+.cover__background:hover{
+    opacity: 0.3;
 }

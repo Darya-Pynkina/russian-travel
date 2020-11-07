@@ -11,4 +11,9 @@ text-decoration-line: underline;
 color: #FFFFFF;
 grid-area: web;
 margin-top: 12px;
+transition: opacity 0.4;
+}
+
+.place__link:hover{
+    opacity: 0.8;
 }
