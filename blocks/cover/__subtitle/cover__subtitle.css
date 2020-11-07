@@ -1,7 +1,7 @@
 .cover__subtitle{
     position: absolute;
     z-index: 1;
-width: 360px;
+max-width: 360px;
 
 font-family: Inter;
 font-style: normal;
