@@ -6,6 +6,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 @import url(../blocks/content/content.css);
 
@@ -48,3 +49,6 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__caption/footer__caption.css);
 
+body{
+    background-color: #2A2C2F;
+}

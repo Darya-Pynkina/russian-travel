@@ -1,0 +1,7 @@
+.lead__images{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 984px;
+    align-items: center;
+}
