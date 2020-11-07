@@ -8,5 +8,9 @@
     ;
     grid-row-gap: 48px;
     grid-column-gap: 40px;
-   
+   margin-top: 80px;
+}
+
+.place:first-child{
+    margin-top: 0;
 }
