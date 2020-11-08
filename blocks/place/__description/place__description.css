@@ -5,9 +5,16 @@
     max-width: 484px;
 }
 
+@media screen and (max-width: 768px){
+    .place__description{
+      min-height: 441px;
+    }
+}
+
 @media screen and (max-width: 320px){
     .place__description{
         margin-left: 16px;
         max-width: 268px;
+        min-height: 545px;
     }
 }
