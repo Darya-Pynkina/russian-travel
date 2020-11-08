@@ -12,4 +12,14 @@ position: absolute;
 align-self: center;
 z-index: 1;
 margin-top: 245px;
+margin-bottom: 0;
+}
+
+@media screen and (max-width: 320px){
+    .cover__title{
+        margin-top: 33px;
+        max-width: 100%;
+        font-size: 32px;
+line-height: 35px;
+    }
 }
