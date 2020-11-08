@@ -3,12 +3,14 @@
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
-line-height: 163%;
-/* or 29px */
-
+line-height: 29px;
 color: #FFFFFF;
 grid-area: p;
-margin: 0;
+margin: 0 0 26px 0;
+}
+
+.place__paragraph:last-of-type{
+    margin: 0;
 }
 
 @media screen and (max-width: 768px){

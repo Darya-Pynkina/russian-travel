@@ -1,34 +1,30 @@
 .cover__subtitle{
-    position: absolute;
-    z-index: 1;
 max-width: 360px;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 22px;
-/* or 122% */
-
 text-align: center;
 align-self: center;
-margin-top: 429px;
+position: absolute;
+z-index: 1;
 }
 
 @media screen and (max-width: 1024px){
     .cover__subtitle{
-        margin-top: 379px;
     }
 }
 
 @media screen and (max-width: 768px){
     .cover__subtitle{
-        margin-top: 299px;
+
     }
 }
 
 
 @media screen and (max-width: 320px){
     .cover__subtitle{
-        margin-top: 119px;
+    
         max-width: 100%;
         font-size: 14px;
 line-height: 16px;

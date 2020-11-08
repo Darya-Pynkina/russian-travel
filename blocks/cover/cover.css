@@ -1,15 +1,18 @@
 .cover{
     display: flex;
+    flex-direction: column;
     margin-top: 92px;
     max-width: calc(100% - 96px);
-    flex-direction: column;
-    align-self: center;
     position: relative;
+    margin-left: 48px;
+    margin-right: 48px;
 }
 
 @media screen and (max-width: 1024px){
     .cover{
 max-width: 100%;
+margin-left: 0;
+margin-right: 0;
     }
 }
 
@@ -22,7 +25,7 @@ margin-top: 90px;
 
 @media screen and (max-width: 320px){
     .cover{
-        margin-top: 66px;
+margin-top: 66px;
 max-width: 100%;
     }
 }
