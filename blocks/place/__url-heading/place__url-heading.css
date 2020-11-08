@@ -13,3 +13,9 @@ color: #AAAAAA;
 grid-area: web;
 margin: 30px 0 0 0;
 }
+
+@media (max-width: 320px) {
+    .place__url-heading{
+      display: none;
+    }
+}

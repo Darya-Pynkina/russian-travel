@@ -2,5 +2,5 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 484px;
+    max-width: 484px;
 }

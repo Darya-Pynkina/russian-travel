@@ -4,3 +4,9 @@
     flex-direction: column;
     margin-bottom: 8px;
 }
+
+@media (max-width: 320px) {
+    .place__website{
+      display: none;
+    }
+}

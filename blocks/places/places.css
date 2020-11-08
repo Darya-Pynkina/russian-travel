@@ -3,3 +3,10 @@
    margin-top: 92px;
    align-self: center;
 }
+
+@media screen and (max-width: 320px){
+   .places{
+      max-width: 100%;
+      margin-top: 64px;
+   }
+}
