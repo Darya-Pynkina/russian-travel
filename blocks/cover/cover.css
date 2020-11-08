@@ -7,6 +7,12 @@
     position: relative;
 }
 
+@media screen and (max-width: 1024px){
+    .cover{
+max-width: 100%;
+    }
+}
+
 @media screen and (max-width: 320px){
     .cover{
         margin-top: 66px;
