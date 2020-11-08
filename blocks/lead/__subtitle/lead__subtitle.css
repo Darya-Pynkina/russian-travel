@@ -1,6 +1,5 @@
 .lead__subtitle{
     width: 640px;
-min-height: 72px;
 margin-top: 32px;
 margin-bottom: 64px;
 
@@ -29,6 +28,5 @@ line-height: 20px;
 margin-bottom: 40px;
 margin-top: 16px;
 max-width: 288px;
-max-height: 40px;
     }
 }
