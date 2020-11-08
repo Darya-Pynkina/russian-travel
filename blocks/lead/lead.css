@@ -10,9 +10,15 @@
 @media screen and (max-width: 1024px){
     .lead{
       width: calc(100% - 48*2px);
+      margin-top: 48px;
     }
 }
 
+@media screen and (max-width: 768px){
+    .lead{
+      width: 100%;
+    }
+}
 
 @media screen and (max-width: 320px){
     .lead{
