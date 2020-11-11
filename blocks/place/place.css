@@ -34,17 +34,5 @@
       "p";
       gap: 32px;
       margin-top: 49px;
-      justify-items: center;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .place{
-      grid-template-areas: 
-      "title"
-      "image"
-      "p";
-      gap: 32px;
-      margin-top: 49px;
     }
 }
