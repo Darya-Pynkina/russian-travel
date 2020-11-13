@@ -10,12 +10,13 @@ padding: 0;
 
 @media screen and (max-width: 1024px) {
     .photo-grid {
+        max-width: calc(100% - 48*2px);
         gap: 14px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .photo-grid {
+    .photo-grid { 
         margin-top: 88px;
         gap: 16px;
     }
