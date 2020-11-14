@@ -3,6 +3,22 @@
     font-weight: 900;
     max-width: 768px;
     margin: 0;
+    z-index: 1;
+    font-size: 72px;
+}
+
+@media screen and (max-width: 550px){
+    .cover__title{
+        font-size: 52px;
+        line-height: normal;
+    }
+}
+
+@media screen and (max-width: 360px){
+    .cover__title{
+        font-size: 42px;
+        line-height: normal;
+    }
 }
 
 @media screen and (max-width: 320px){

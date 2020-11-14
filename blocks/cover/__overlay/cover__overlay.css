@@ -1,23 +1,18 @@
 .cover__overlay{ 
     font-style: normal;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    
     width: 100%;
-    min-height: 740px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     color:white;
     text-decoration: none;
+    position: relative;
 }
 
 .cover__overlay::before{ 
     content:''; 
     position: absolute;
-    margin-left: -1px; 
     width: 100%;
     height: 100%;
     background-color: #2A2C2F; 
