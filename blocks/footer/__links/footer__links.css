@@ -3,13 +3,13 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
- 
+    flex-wrap: wrap;
 }
 
 @media screen and (max-width: 500px){
     .footer__links{
-flex-direction: column;
-min-height: 248px;
-justify-content: space-between;
+        flex-direction: column;
+        min-height: 248px;
+        justify-content: space-between;
     }
   }
