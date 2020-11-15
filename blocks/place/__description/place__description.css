@@ -3,30 +3,3 @@
     flex-direction: column;
     flex-wrap: wrap;
 }
-
-/*
-@media screen and (max-width: 1024px){
-    .place__description{
-    max-width: 456px;
-    }
-}
-
-@media screen and (max-width: 768px){
-    .place__description{
-    max-width: 322px;
-    }
-}
-
-@media screen and (max-width: 768px){
-    .place__description{
-    max-width: 322px;
-    }
-}
-
-@media screen and (max-width: 320px){
-    .place__description{
-        margin-left: 16px;
-        max-width: 268px;
-    }
-}
-*/
